@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGI_Local_News_Publisher
+Bundle-SymbolicName: OSGI_Local_News_Publisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.mtit.osgi.local_news_publisher.ServiceActivator
+Export-Package: com.mtit.osgi.local_news_publisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+
